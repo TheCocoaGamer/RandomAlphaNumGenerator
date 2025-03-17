@@ -1,0 +1,1 @@
+Just a fun little RNG project I made. You can determine the length of the output, and the output will be either pos or neg if it is a number, or it can have alpha numeric symbols, and it will randomly decide these extra criteria
